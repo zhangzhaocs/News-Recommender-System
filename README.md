@@ -1,7 +1,7 @@
 # News-Recommender-System
 a news recommender system, using item-item collaborative filtering and FunkSVD algorithm
 
-Users can import the project to Eclipse.
+Users can import the project(News-Recommender-System/News-Recommender-System) to Eclipse.
 
 Data directory contains the browsing history of 10,000 users in one month,
 each line contains 5 fields: user id \t new id \t browsing time \t title of the news \t content of the news.
