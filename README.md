@@ -10,6 +10,7 @@ We split the data into 2 parts, using the first 20 days' data as the training da
 The task is to recommend news to the 10,000 users in the last 11 days.
 
 To get the recommendation list, run src\Recommender\Recommender.java.
+
 Feel free to contact me(zhangz@ics.ict.ac.cn) if you have any questions.
 
 Resepect!
