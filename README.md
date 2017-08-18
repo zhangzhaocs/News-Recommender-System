@@ -13,4 +13,4 @@ To get the recommendation list, run src\Recommender\Recommender.java.
 
 Feel free to contact me(zhangz@ics.ict.ac.cn) if you have any questions.
 
-Resepect!
+Respect!
